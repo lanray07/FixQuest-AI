@@ -1,0 +1,67 @@
+1
+00:00:00,000 --> 00:00:10,000
+Meet FixQuest AI. Turn everyday home problems into interactive repair adventures. This recording uses an Amazon Fire tablet.
+
+2
+00:00:10,199 --> 00:00:18,199
+Three rooms, three quests: a dripping tap, a slow sink, and a sticking door. Every action works with directional controls.
+
+3
+00:00:18,340 --> 00:00:26,340
+Start with a model tap. Observe the scenario, consider the clues, and learn when to stop for qualified help.
+
+4
+00:00:26,477 --> 00:00:33,477
+The focus ring shows the selected answer. Use the D-pad to move and Select to make a choice.
+
+5
+00:00:33,622 --> 00:00:41,622
+A wrong answer is a chance to learn. The guide gives a contextual nudge, and you can try again.
+
+6
+00:00:42,044 --> 00:00:50,044
+QuestGuide offers curated guidance offline. It is deterministic, not live generative AI. Prompts can use an installed offline system voice.
+
+7
+00:00:50,431 --> 00:00:56,431
+First, identify where the drip appears. Observation comes before guessing at a hidden problem.
+
+8
+00:00:56,631 --> 00:01:02,631
+The model explains a likely cause, while recognising that different tap designs use different parts.
+
+9
+00:01:02,734 --> 00:01:10,734
+Original illustrations and a simple toolkit make each decision visual. Here, choose a fitted spanner with a protective cloth.
+
+10
+00:01:10,941 --> 00:01:18,941
+Now build a safe sequence in the model: isolate the water, verify flow has stopped, then replace the matching washer.
+
+11
+00:01:19,196 --> 00:01:25,196
+The puzzle rewards the order of the checks. If isolation is uncertain, stop and get help.
+
+12
+00:01:25,424 --> 00:01:35,424
+Mission complete. Earn a badge and experience points. The best completed result is saved locally, and retries remain part of learning.
+
+13
+00:01:36,016 --> 00:01:44,016
+Another room brings another interaction. Align the virtual door marker with its target. This is a simulation, not a diagnosis.
+
+14
+00:01:45,912 --> 00:01:53,912
+Small remote movements bring the model into alignment. The explanation reminds us that real doors can stick for several reasons.
+
+15
+00:01:54,092 --> 00:02:02,092
+Knowing when a problem needs professional assessment is part of the game. Complete a quest to unlock its badge.
+
+16
+00:02:02,230 --> 00:02:12,230
+XP and badges stay on this device. Replaying can improve a best score, without counting the same mission again and again.
+
+17
+00:02:12,364 --> 00:02:20,364
+No login, backend, or API key. FixQuest AI makes home knowledge a shared adventure. Fire TV demo footage is still required.

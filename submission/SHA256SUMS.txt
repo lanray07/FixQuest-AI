@@ -1,0 +1,3 @@
+87f1e6f28b08906fd9c3224364656aea00defef953b23f162104838cc6c7e6f6  FixQuest-AI-1.0.0-demo.apk
+d749eecf1e2446d64610f0f5b1197f12c6410673e6540153bd216be082e03f8f  FixQuest-AI-source.zip
+d44c69b4b6605f96d29cd57570c44c24e26df7fad7b80ce17c5a37c949323b54  FixQuest-AI-tablet-rehearsal.mp4
