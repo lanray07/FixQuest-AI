@@ -36,8 +36,9 @@ Java, Android SDK, Android Views, Canvas, TextToSpeech, JSON, SharedPreferences,
 ## Primary track
 Fire TV — family entertainment and practical learning.
 
-## Links to supply before submitting
+## Published submission links
 - Repository URL: https://github.com/lanray07/FixQuest-AI — public source with the included MIT license.
-- Public English demo video URL: YouTube or Vimeo, strictly under three minutes, showing the app on an actual Fire TV or the accepted Fire TV/Vega simulator.
+- Public English tablet rehearsal: https://youtu.be/dGE7lSID0Ng — 2:20, explicitly labelled Fire OS tablet footage; not actual Fire TV or accepted simulator evidence.
+- Submitted Devpost entry: https://devpost.com/software/fixquest-ai — submission confirmed on 23 October 2026. The saved online story includes the actual tablet validation results and outstanding Fire TV validation.
 
 Do not claim an AWS integration, live model API, Fire TV hardware test, Appstore publication, or an Open Source mini-challenge contribution that has not actually happened. The Open Source mini challenge asks for an additional qualifying project or contribution alongside the primary submission; the MIT license alone does not establish eligibility.

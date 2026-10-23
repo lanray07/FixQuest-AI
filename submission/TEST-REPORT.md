@@ -40,7 +40,7 @@ Android TextToSpeech is implemented with language fallback, offline English voic
 - Large system-font settings and screen-reader usability: not independently exercised.
 - Appstore production signing, certification and publication: not performed.
 
-The build is suitable for sideload testing. Full hackathon submission readiness still depends on the required Fire TV demo footage, repository publication/access, public video URL, and final Devpost submission.
+The build is suitable for sideload testing. The public repository and labelled tablet rehearsal are published, and Devpost confirmed submission on 23 October 2026: https://devpost.com/software/fixquest-ai. Required Fire TV demo footage remains outstanding; submission does not establish track eligibility or target-device validation.
 
 ## Rehearsal media verification
 The delivered labelled tablet video is 140.37 seconds, 1920×1080, H.264 at a constant 30 fps, with AAC English editorial voice-over. The raw device video is 1280×720 and is scaled for the final export. Representative frames were inspected for captions, provenance label, real UI and correct timing. Audio stream levels were checked: mean approximately -18.7 dB, peak -1.1 dB. This checks the added voice-over signal, not the app's TextToSpeech audio.

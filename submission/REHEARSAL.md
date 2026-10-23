@@ -6,7 +6,7 @@ The video has English captions, locally generated Microsoft Hazel narration, and
 
 The device's raw screen recording is 1280×720. The delivered export is scaled to 1920×1080 at 30 fps, with a duration of 140.37 seconds. The still screenshots are separate native 1920×1080 captures.
 
-This rehearsal helps review pacing and features. It does **not** meet the event's requirement for actual Fire TV / accepted Fire TV or Vega simulator footage. No public video upload has been made.
+This rehearsal helps review pacing and features. It does **not** meet the event's requirement for actual Fire TV / accepted Fire TV or Vega simulator footage. Published publicly on 23 October 2026 as **FixQuest AI — Fire OS Tablet Rehearsal Demo**: https://youtu.be/dGE7lSID0Ng. This link is included in the submitted Devpost entry.
 
 `tablet-rehearsal-captions.srt` contains the timed English captions. The longer manual capture plan in DEMO-SCRIPT.md is designed for a final Fire TV recording.
 

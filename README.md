@@ -51,6 +51,11 @@ The UI test finds a path through native directional focus navigation and sends r
 
 ## Submission status
 
+Submitted to the Build, Ship, Shape: Amazon Developer Hackathon on 23 October 2026; Devpost confirmed "Project submitted!".
+
+- [Devpost entry](https://devpost.com/software/fixquest-ai)
+- [Public tablet rehearsal demo](https://youtu.be/dGE7lSID0Ng)
+
 See `submission/CHECKLIST.md` and `submission/TEST-REPORT.md` for actual verification and remaining external steps. A Fire OS tablet is useful for compatibility testing but does **not** meet the hackathon requirement to demonstrate on an actual Fire TV or Fire TV/Vega simulator. Do not label tablet footage as Fire TV evidence.
 
 A labelled tablet rehearsal with English captions and local editorial voice-over is included for review; see `submission/REHEARSAL.md`. The voice-over is separate from the app's optional Android narration. Run `python tools/package.py` after building to recreate the portable source archive, APK copy, checksums and handoff ZIP.

@@ -13,13 +13,16 @@ Deadline listed by Devpost: **23 October 2026 at 12:00 PDT / 20:00 Europe/London
 - [x] Product feedback and friction notes: PRODUCT-FEEDBACK.md.
 - [x] Complete source, Gradle wrapper, build instructions and MIT license.
 
-## External steps still required
-1. Install and validate the APK on an actual Fire TV device or the accepted Fire TV/Vega simulator. The connected KFTRWI is a tablet. Tablet screenshots/recordings do not satisfy the Fire TV demo requirement.
-2. Record/edit a public English demo **under 3 minutes**, upload to YouTube or Vimeo, and copy the URL. Follow DEMO-SCRIPT.md.
-3. Repository: https://github.com/lanray07/FixQuest-AI (public, MIT license). Confirm the source and build instructions are accessible to reviewers.
-4. In Devpost, select the Fire TV primary track, paste the project description and honest product feedback, and attach the actual repo and video URLs. Upload screenshots if requested.
-5. Enter team details and eligibility declarations yourself; review terms and final project fields. Submit before the deadline and retain the submission confirmation.
+## Submission completed — 23 October 2026
+- [x] Public MIT-licensed repository: https://github.com/lanray07/FixQuest-AI.
+- [x] Public English tablet rehearsal (2:20): https://youtu.be/dGE7lSID0Ng.
+- [x] Devpost entry submitted: https://devpost.com/software/fixquest-ai. Devpost displayed "Project submitted!".
+- [x] Fire TV primary track, project story, six labelled screenshots, repository/video links, testing instructions, developer feedback, and handoff ZIP saved.
+- [x] Individual submitter details and eligibility declarations saved; user explicitly confirmed eligibility and agreement to the Official Rules and Devpost Terms before submission.
+
+## Outstanding validation
+Install and validate the APK on an actual Fire TV device or the accepted Fire TV/Vega simulator, then record qualifying footage. The connected KFTRWI is a tablet; the user confirmed no Fire TV target was available. The submitted story and public video explicitly disclose this limitation. Submission confirmation does not establish track eligibility or acceptance by judges.
 
 Current source began in an empty workspace during this session. There are no external APIs or AWS services in the build. Do not select AWS Builder solely for using this app. Open Source mini-challenge eligibility requires the additional contribution described in the event rules.
 
-No Devpost submission, public video upload, Amazon Appstore upload, or reviewer invitation has been made by this local build workflow. The public repository does not need private-repository invitations.
+No Amazon Appstore upload or reviewer invitation has been made. The public repository does not need private-repository invitations. Local submission proof is retained in the ignored captures/devpost-submitted.png file.
